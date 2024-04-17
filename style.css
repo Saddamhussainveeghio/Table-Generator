@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.header{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    background-color: antiquewhite;
+    width: 400px;
+    margin-left: 300px;
+}
+button{
+    background-color: chartreuse;
+    font-family: 'Courier New', Courier, monospace;
+}
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 20px auto;
+    border: 2px solid blue;
+    background-color: rgb(235, 213, 187);
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+    border: 1px solid black;
+}
+th {
+    background-color: #f2f2f2;
+}
